@@ -1,3 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
 
-1111
+
+int value = 100;
+Console.WriteLine(value);
