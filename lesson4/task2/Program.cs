@@ -68,6 +68,7 @@ bool isInteresting(int value)
 }
 
 int GetSumOfDigits (int value)
+
 {
     int sum = 0;
     while(value > 0)
@@ -80,3 +81,4 @@ int GetSumOfDigits (int value)
 
 
 
+string hndsWith
